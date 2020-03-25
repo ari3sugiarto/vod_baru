@@ -1,79 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://seeklogo.com/images/U/ufc-tv-logo-FAC9E3D4D8-seeklogo.com.png" group-title="SPORTS", UFC TB
-http://78.141.211.61:4000/8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport" tvg-logo="https://lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu" group-title="SPORTS", Bein Connect
-http://198.147.24.66:25461/live/skydbnew/bfHcm8THgk/212.m3u8?token=HhBZURFYRgkQUwQEUw0ADlsAA1AOXAEMXg1SAwYHUFAAVwMEUwdTAAcQHUMVTBFcWFxoCl1HDQpXChxAQkcDQTpbVRJYElcDEB4TFQ9VBhsDARtBSQxTGlwaAVIPBlARSRBUSBZVFl1TXm4FA04KWlwTDQ1MCVsURFdePVNRC1ILVhMKQAFGHxBbQhFEAg1MVV0bQVsMQ0oHTFVADRZTBlcLExxAUwtGXEZDGEQCQWxqExtBXB1DXQhLWQ1ZFlwRCAFECEAcRlpBbUMEFUwRXFhcUhEbXxUIRBQSD1ZMOVAKXF9VAUQNXFxBE1tECEEVG1xYDVARWEo5SFkGFQ5EBlIACBIf
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F9999387%2F300x300.png%3Ftype%3Dcolor_onBlack&imgrefurl=https%3A%2F%2Fwww.xumo.tv%2Fon-now%2F9999387%2Fbein-sports-xtra%3Ffilter%3D67&tbnid=EwHpArw11TWSAM&vet=12ahUKEwjG2cji6u_nAhWKIysKHWM0Dk8QMyg0egQIARBw..i&docid=MkxayNKghHo_XM&w=300&h=300&itg=1&q=bein%20sport%20xtra%20png&ved=2ahUKEwjG2cji6u_nAhWKIysKHWM0Dk8QMyg0egQIARBw" group-title="SPORTS", Bein Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="SPORTS",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="SPORTS",Sony Ten 1
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="SPORTS",Sony Ten 2
-https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN3.in.png" group-title="SPORTS",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="SPORTS",Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="SPORTS", Sky Sports Mix
-https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports EPL" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="SPORTS", Sky Sports EPL
-https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="SPORTS", Sky Sports Main Event
-https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS", Sky Sports F1
-https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="SPORTS", Sky Sports Arena
-https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS", Sky Sports Action
-https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="SPORTS", Sky Sports Football
-https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="SPORTS",Sky Sports Golf
-https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports HD" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="SPORTS", Skynet Sports HD
-https://www.doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1" tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png" group-title="SPORTS", Skynet Sports 1
-https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 2" tvg-logo="https://i.pinimg.com/originals/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.png" group-title="SPORTS", Skynet Sports 2
-https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 3" tvg-logo="https://i.pinimg.com/originals/60/d6/d0/60d6d0094336d45d0396350f2648559a.png" group-title="SPORTS", Skynet Sports 3
-https://www.doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 4" tvg-logo="https://i.pinimg.com/originals/18/94/77/1894773124c59b327ad34a7a795b2a18.png" group-title="SPORTS", Skynet Sports 4
-https://www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 5" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="SPORTS", Skynet Sports 5
-https://www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 6" tvg-logo="https://i.pinimg.com/originals/5d/ac/89/5dac89cb6be153d89c874fef0e86649c.png" group-title="SPORTS", Skynet Sports 6
-https://www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="SPORTS", True Premier Football 1
-http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="SPORTS", True Premier Football 2
-http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 3" tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png" group-title="SPORTS", True Premier Football 3
-http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 4" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS", True Premier Football 4
-http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 5" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="SPORTS", True Premier Football 5
-\http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS",True Sport 1
-https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/stations/a1071.png" group-title="SPORTS",True Sport 2
-https://www.doofree88.com/streaming/hd-tsport2_720/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/stations/a1072.png" group-title="SPORTS",True Sport 3
-https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/stations/a1073.png" group-title="SPORTS",True Sport 4
-https://www.doofree88.com/streaming/hd-tsport4_720/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesport5.png" group-title="SPORTS",True Sport 5
-http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/logo_075.png&w=355&h=200" group-title="SPORTS",True Sport 6
-http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/tsp7.jpg" group-title="SPORTS",True Sport 7
-http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BT Sports 1
-https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sports 2
-https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.netnaija.com/PDJHHK.jpg" group-title="Movie On-Demand: 2020", Ana (2020)
+https://www.dropbox.com/s/26n7fad4biwty8g/Ana.2020.720p.mkv?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kiaikick.files.wordpress.com/2020/02/final-kill-key-art.jpg?w=691" group-title="Movie On-Demand: 2020", Final Kill (2020)
+https://www.dropbox.com/s/7c8mzu4hxuyjua3/Final%20Kill.mkv?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://goodguymovies.com/images/Legacy/Disney/Onward-2020.jpg" group-title="Movie On-Demand: 2020", Onward (2020)
+https://www.dropbox.com/s/6qtmxzs9c6bxcul/Onward%202020%20720.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Escape_from_Pretoria_film_poster.png" group-title="Movie On-Demand: 2020", Escape from pretoria (2020)
 https://www.dropbox.com/s/xk11zn14nongrct/Escape.from.Pretoria.2020.WEB-DL.720p.PlanetIPTV.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFkMmE5ZDMtY2FjZi00MjUzLTg5YTQtNmNmZTg2MGFkODQwXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_.jpg" group-title="Movie On-Demand: 2020", The Dawn (2020)
@@ -85,37 +16,37 @@ https://www.dropbox.com/s/6vs7vxjsgd3iibh/wild.king.2020.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Birds_of_Prey_%28and_the_Fantabulous_Emancipation_of_one_Harley_Quinn%29.jpg" group-title="Movie On-Demand: 2020", Birds of Prey (2020)
 https://www.dropbox.com/s/kd4jy6jrdbjaesa/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.KORSUB.HDRip.x264-STUTTERSHIT.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoar8y_ZLMjpU2DUCmYy4twmLqIGwLIUr7OHvV4oGYWYt3aB0-" group-title="Movie On-Demand: 2020", Dolittle (2020)
-https://www.googleapis.com/drive/v3/files/1u-EVDQNKkyTrqwf_ER0BBHwtSo-tCoZQ?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/eniep91e4dlvwdp/Dolittle.2020.HDRip.x264-STUTTERSHIT.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asianwiki.com/images/8/8d/Secret_Zoo-P1.jpg" group-title="Movie On-Demand: 2020", Secret Zoo (2020)
-https://www.googleapis.com/drive/v3/files/1KfD9TBrJ9e1KxBzzzFP-L1jfBUKsyhiz?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/tqwawgj7js5daaf/Secret.Zoo.2019.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17881762/p17881762_v_v8_aa.jpg" group-title="Movie On-Demand: 2020", Miss Americana (2020)
-https://www.googleapis.com/drive/v3/files/1uYH50ORJxBO-sDZ2Exhs42lnoYOuPAmh?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/0lklsg202x2oqm9/Taylor.Swift.Miss.Americana.2020.PlanetIPTV.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZiZjkyMGMtNDUwMC00YWRhLWE4ZTctNTg2MDA1MjUwYWY5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Movie On-Demand: 2020", Timmy Failure Mistakes Were Made (2020)
-https://www.googleapis.com/drive/v3/files/1ypp4xLuhpmbi-NUfHHCaJI3-sQC2nyg0?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/w5mgoxw1728kv02/Timmy.Failure.Mistakes.Were.Mad_2.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/image.tmdb.org/t/p/w500/ofJp9SfJFlzCaDCUFfvCx08Hwfh.jpg" group-title="Movie On-Demand: 2020", Come To Daddy (2020)
-https://www.googleapis.com/drive/v3/files/15JI-Juv3g_5Dot2Ra-P29qvyLlHqd1qp?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/pa3y9kwc6yce6un/Come%20to%20Daddy.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNlNjI2MjktZjQzZi00ODY4LWFiNDEtY2IxMGJhOWQwMTc5XkEyXkFqcGdeQXVyNTU1ODMyNjA@._V1_UY1200_CR109,0,630,1200_AL_.jpg" group-title="Movie On-Demand: 2020", Alien Outbreak (2020)
-https://www.googleapis.com/drive/v3/files/1wop1VjBnhKyki55xuRXInNcVd3j0Zkgz?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/dzaisibmzbgxec0/Alien.Outbreak.2020.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17857335/p17857335_v_v8_aa.jpg" group-title="Movie On-Demand: 2020", Dragonheart Vengeance (2020)
-https://www.googleapis.com/drive/v3/files/1TeNVC_kGN457yX6sWf2mPRgyBtviA-HI?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/yuoh53djv71lzr8/Dragonheart.Vengeance.2020.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a.ltrbxd.com/resized/film-poster/5/8/9/3/9/5/589395-the-windermere-children-0-230-0-345-crop.jpg?k=16b47e7434" group-title="Movie On-Demand: 2020", The Windemere Children (2020)
-https://www.googleapis.com/drive/v3/files/19BCC3PF9oyJYoySg36qCo3mEireirv3r?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/7llt3mtkek7hfb8/The%20Windermere%20Children.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk5MGYxZmUtNmJjNC00Y2JjLWJiMTEtMDY4M2QzNzAxNjJiXkEyXkFqcGdeQXVyNDczODQwOTQ@._V1_.jpg" group-title="Movie On-Demand: 2020", Heavenquest-A Pilgrim's Progress (2020)
-https://www.googleapis.com/drive/v3/files/1d3OTf8mzrH5upgmWAWSHdbMAHURV1hNe?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/htxu4ik7v5ovq7j/Heavenquest.A.Pilgrims.Progress.2020.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmeAVuc48aSpdEXU4hMUwoqyEbuThwReRLpmpaiPqTkhQt/elsewhere.jpg" group-title="Movie On-Demand: 2020", Elsewhere (2020)
-https://www.googleapis.com/drive/v3/files/1g9wkQ8IJJlTHLJXB_FvxNtGQsxs6y-p3?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/k2dn9cqnp2pgm48/Elsewhere%20%282019%29.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQwMWNlYjItYmFmZi00YzZmLTlkMjEtMzFjMzBjMDZiYzY4XkEyXkFqcGdeQXVyNDQ3MjUyMTk@._V1_UY1200_CR100,0,630,1200_AL_.jpg" group-title="Movie On-Demand: 2020", Coda (2020)
-https://www.googleapis.com/drive/v3/files/1ikFgBMQNKIkNuaNtY_i81rwMJm8g1eqK?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/yt7jpkpwc6wbdri/Coda%20%282020%29.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD_NVggEJTlM24jpYIfhNCIq3eXM3GOXMVMhx-CUj5-rNAg2_U" group-title="Movie On-Demand: 2020", Horse Girl (2020)
-https://www.googleapis.com/drive/v3/files/1zFpHS00eqcUeCFYNB0LEfoEVxjd9yB_R?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/4bna84zhb3hbpfs/Horse.Girl.2020.720p.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFiNTZjMmYtMTcyZS00MGQ5LWEwMDYtMGI5MGJiMjUwMDZhXkEyXkFqcGdeQXVyNzQ3MDQzMA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="Movie On-Demand: 2020", Alone (2020)
-https://www.googleapis.com/drive/v3/files/1cYBEb7T9nVERLXrK7Fnwrk-T5TPMXs40?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/nx21vxr502bz2ks/Alone_2.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg1OTcxMTItOTM1Yy00NTEwLWE0YmItODhjYmJjOTJhMTViXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="Movie On-Demand: 2020", Angels Fallen (2020)
-https://www.googleapis.com/drive/v3/files/1VCVHffg72Wi5NnI27Ra4kV2qJvMv-dm0?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/q6rltmelij3486t/Angels%20Fallen.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.9jalshamoviez.com/wp-content/uploads/2020/01/Grand-Theft-Auto-Girls-2020-Dual-Audio-720p-HDRip-Hindi-%E2%80%93-English.jpg" group-title="Movie On-Demand: 2020", Grand Theft Auto Girls (2020)
-https://www.googleapis.com/drive/v3/files/1bpJyM7EXSipGW1LOaM-cRlUhHMPL5SO9?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/044cyqqyswvzjz2/Grand%20Theft%20Auto%20Girls.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqB7zaOwER-RfERQu1RZKBLDGEar6dNzByJmnLwIb02Y0vmm8a" group-title="Movie On-Demand: 2020", John Henry (2020)
-https://www.googleapis.com/drive/v3/files/1dAFqEx9LiENr6dNxRXjihp8RBLd0WI50?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/zlkridfxsdtiibl/john%20herry.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17829062/p17829062_v_v8_aa.jpg" group-title="Movie On-Demand: 2020", To All the Boys- P.S. I Still Love You (2020)
 https://www.googleapis.com/drive/v3/files/1eH-qmYTWeIwRuHYrHSPipFcuz0sxpITb?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2020/01/6uSR3687xtyS207S8nYp1voT9mR.jpg?fit=300%2C450" group-title="Movie On-Demand: 2020", Inmate Zero (2020)
@@ -340,8 +271,14 @@ https://cdn.apidev.icu/drive/index.php?id=aybi5fawncce%2BgSWvjcF0QQjfCf2Og%2B%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ChVzFgh.jpg" group-title="Movie On-Demand: 0-1" description="Drama | Horror | Sci-Fi | 7.0 | 100 Menit | Dalam sekuel dingin ini untuk 28 Days Later-- penduduk Kepulauan Inggris tampaknya telah kehilangan pertempuran mereka melawan serangan penyakit-- seperti virus kemarahan mematikan telah menewaskan setiap warga negara di sana. Enam bulan kemudian-- sekelompok orang Amerika berani menginjakkan kaki di pulau-- yakin bahaya telah datang dan pergi. Tapi itu segera menjadi terlalu jelas bahwa momok terus hidup-- menunggu untuk menerkam korban berikutnya.",28 Weeks Later (2007)
 https://gdrivecdn.us/drive/index.php?id=Nar29JneOmIifUUnYUB6AAtDgnJ2a8h6%2FhmWdxAy9baQZ4%2BQgWi8HD2YKNhZlh4mvWPC1T%2BUJmXJhWaPezU4TVgqeP0%2BHNQnQ0lbaWMpOEG4NsCXE2GwoQjJyHLX63QjE%3D&ref=&res=720
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.netnaija.com/PDJHHK.jpg" group-title="Movie On-Demand: A", Ana (2020)
+https://www.dropbox.com/s/26n7fad4biwty8g/Ana.2020.720p.mkv?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFiNTZjMmYtMTcyZS00MGQ5LWEwMDYtMGI5MGJiMjUwMDZhXkEyXkFqcGdeQXVyNzQ3MDQzMA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="Movie On-Demand: A", Alone (2020)
+https://www.dropbox.com/s/nx21vxr502bz2ks/Alone_2.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg1OTcxMTItOTM1Yy00NTEwLWE0YmItODhjYmJjOTJhMTViXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="Movie On-Demand: A", Angels Fallen (2020)
+https://www.dropbox.com/s/q6rltmelij3486t/Angels%20Fallen.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNlNjI2MjktZjQzZi00ODY4LWFiNDEtY2IxMGJhOWQwMTc5XkEyXkFqcGdeQXVyNTU1ODMyNjA@._V1_UY1200_CR109,0,630,1200_AL_.jpg" group-title="Movie On-Demand: A", Alien Outbreak (2020)
-https://www.googleapis.com/drive/v3/files/1wop1VjBnhKyki55xuRXInNcVd3j0Zkgz?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/dzaisibmzbgxec0/Alien.Outbreak.2020.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3iYQTLGoy7QnjcUYRJy4YrAgGvp.jpg" group-title="Movie On-Demand: A",Aladdin 2019
 
 
@@ -404,7 +341,7 @@ https://gdrivecdn.us/drive/index.php?id=sW%2FAj5u66rDU%2FnP6P9Fmsgw3M3ST17nHKHmA
 https://gdrivecdn.us/drive/index.php?id=DAFnEqMMx9lxDHk4%2Bl1y6QxA2%2B7%2BnIlT12vBXqgU1kS7%2F%2FkzOTcbhVusUTUcfjmc%2FIbOvb62IJzqJkPIATOycYrSm%2BC9xEAExobmWb9HiuNnV6D6jD1DYv%2Bc%2BWoOVKmXI%3D&ref=&res=720
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Birds_of_Prey_%28and_the_Fantabulous_Emancipation_of_one_Harley_Quinn%29.jpg" group-title="Movie On-Demand: B", Birds of Prey (2020)
-https://www.googleapis.com/drive/v3/files/1spUbkjbcHhafyKaOVMoRgdfgspykz5IK?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/kd4jy6jrdbjaesa/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.KORSUB.HDRip.x264-STUTTERSHIT.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dN9LbVNNZFITwfaRjl4tmwGWkRg.jpg  group-title="Movie On-Demand: B" description="Action | Crime | IMDb: 7.7 | 112 Menit | Setelah dipaksa bekerja untuk bos kejahatan, seorang pengemudi muda yang kabur menemukan dirinya ikut serta dalam pencurian yang akan gagal.",Baby Driver (2017)
 https://cdn.apidev.icu/drive/index.php?id=5CiVoNnXFrQcswtBl0ZruQSJcEHiZK%2F376m%2BvbqOJr%2BQvPXCVF7r8N%2FouEB%2Bt%2BALT2e1e24zwIoyKAUnEz0Qo08I6esIHl9UeVXpdPkYwUqbP%2Fqc0bJ4%2Fsi%2BCM%2FzpYCKQ%3D&ref=&res=720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movie On-Demand: B",Basah
@@ -441,9 +378,9 @@ https://gdrivecdn.us/drive/index.php?id=tus%2FUzbybnfDii0VIgX0TgBUgVVC2SSwVMqTwp
 https://gdrivecdn.us/drive/index.php?id=nmnCYo4Li%2FhfstE5YLP2ewjGWUZhyCd2k94p%2BvSE7%2BhUv0Hm%2FIPAclwSHB40%2BQ9pZ5s%2Bs1DV7w3KgNvUkF4x0kNocEOBpxRZBOv0nOVv3TTdFsc3AhT2rFaKnWcTnlAG8%3D&ref=&res=720
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/image.tmdb.org/t/p/w500/ofJp9SfJFlzCaDCUFfvCx08Hwfh.jpg" group-title="Movie On-Demand: C", Come To Daddy (2020)
-https://www.googleapis.com/drive/v3/files/15JI-Juv3g_5Dot2Ra-P29qvyLlHqd1qp?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/pa3y9kwc6yce6un/Come%20to%20Daddy.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQwMWNlYjItYmFmZi00YzZmLTlkMjEtMzFjMzBjMDZiYzY4XkEyXkFqcGdeQXVyNDQ3MjUyMTk@._V1_UY1200_CR100,0,630,1200_AL_.jpg" group-title="Movie On-Demand: C", Coda (2020)
-https://www.googleapis.com/drive/v3/files/1ikFgBMQNKIkNuaNtY_i81rwMJm8g1eqK?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/yt7jpkpwc6wbdri/Coda%20%282020%29.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/postyrandom.com/wp-content/uploads/2019/11/images.jpg?fit=455%2C674&ssl=1" group-title="Movie On-Demand: C", Countdown 2019
 https://www.googleapis.com/drive/v3/files/13tvDB_vF4fpVC8O_rAizCupZ22NXZ4l7?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKhaJRP.jpg" group-title="Movie On-Demand: C" description="Drama | 6.9 | 117 Menit | Seorang wanita muda bergabung dengan militer untuk menjadi bagian dari sesuatu yang lebih besar dari dirinya dan akar kota kecilnya. Sebaliknya-- ia berakhir sebagai penjaga baru di Teluk Guantanamo-- di mana misinya jauh dari hitam dan putih. Dikelilingi oleh para jihadis yang bermusuhan dan rekan setim yang agresif-- dia memulai persahabatan yang tidak biasa dengan salah satu tahanan.",Camp X-Ray (2014)
@@ -484,9 +421,9 @@ https://cdn.clonefile.icu/drive/index.php?id=d%2BKgBkVUPKG12QkJt9ViLw1YtEQPoQhZY
 https://cdn.cloneapi.icu/drive/index.php?id=w168gwKRMPV%2F9s4SJTVdGgqQqFU8flXy800BIRKnj0Hp0IqfHJgPf0ZhQaSWDs247h%2BuKn4lO1WB0RQrvlEBiL0NwmZyoPPDQT8mxEybP3iTsc6P6504T919sKOxs%2BFHI%3D&ref=&res=720
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoar8y_ZLMjpU2DUCmYy4twmLqIGwLIUr7OHvV4oGYWYt3aB0-" group-title="Movie On-Demand: D", Dolittle (2020)
-https://www.googleapis.com/drive/v3/files/1u-EVDQNKkyTrqwf_ER0BBHwtSo-tCoZQ?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/eniep91e4dlvwdp/Dolittle.2020.HDRip.x264-STUTTERSHIT.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17857335/p17857335_v_v8_aa.jpg" group-title="Movie On-Demand: D", Dragonheart Vengeance (2020)
-https://www.googleapis.com/drive/v3/files/1TeNVC_kGN457yX6sWf2mPRgyBtviA-HI?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/yuoh53djv71lzr8/Dragonheart.Vengeance.2020.mkv?dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg" group-title="Movie On-Demand: D" description=" Action | Science Fiction | IMDb: 6.1 | 104 Menit | X-Men menghadapi musuh mereka yang paling tangguh dan kuat ketika salah satu dari mereka, Jean Gray, mulai lepas kendali. Selama misi penyelamatan di luar angkasa, Jean hampir terbunuh ketika dia dihantam oleh kekuatan kosmik misterius. Begitu dia kembali ke rumah, kekuatan ini tidak hanya membuatnya jauh lebih kuat, tetapi jauh lebih tidak stabil. X-Men sekarang harus bersatu untuk menyelamatkan jiwanya dan melawan alien yang ingin menggunakan kemampuan baru Grey untuk memerintah galaksi.",Dark Phoenix (2019)
 https://www.dropbox.com/s/bckz0xk59nndoyh/X.Men.Dark.Phoenix.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
 
@@ -549,8 +486,10 @@ https://cdn.apidev.icu/drive/index.php?id=ZTVGy4%2BT6aVd%2Fm9HVpsOCQF4boWpn4MdHi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ijZ45QBl9WPINT1NVYldUUEZ6eE.jpg" group-title="Movie On-Demand: D" description="Documentary | IMDb: 7.4 | 133 Menit | Hari Terakhir Dinosaurus adalah film dokumenter televisi Discovery Channel 2010 tentang kepunahan dinosaurus. Ini menggambarkan hipotesis Alvarez sebagai penyebab kepunahan.",Last Day of the Dinosaurs (2010)
 https://cdn.cloneapi.icu/drive/index.php?id=xlyr1pu3uvqys8GY%2FQxbkgkyQw5245bVQsSDLPG0h2YT1wbHGydz5D0SOxa3ZhYDecsc8JGb3t76gLf5u0TZ2l4VAr33LqdUxEZ2G4fbVN87gDcDP6VV1xitNQqYF%2Bd2g%3D&ref=&res=720
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Escape_from_Pretoria_film_poster.png" group-title="Movie On-Demand: E", Escape from pretoria (2020)
+https://www.dropbox.com/s/xk11zn14nongrct/Escape.from.Pretoria.2020.WEB-DL.720p.PlanetIPTV.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmeAVuc48aSpdEXU4hMUwoqyEbuThwReRLpmpaiPqTkhQt/elsewhere.jpg" group-title="Movie On-Demand: E", Elsewhere (2020)
-https://www.googleapis.com/drive/v3/files/1g9wkQ8IJJlTHLJXB_FvxNtGQsxs6y-p3?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/k2dn9cqnp2pgm48/Elsewhere%20%282019%29.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4NWn9UJ.jpg" group-title="Movie On-Demand: E" description="Adventure | Animation | Comedy | Family | 6.1 | Diatur pada waktu fajar ketika dinosaurus dan mammoth berbulu menjelajahi bumi Manusia Awal menceritakan kisah tentang bagaimana seekor manusia gua yang berani mempersatukan sukunya melawan musuh yang hebat dan menyelamatkan hari.",Early Man (2018)
 https://gdrivecdn.us/drive/index.php?id=4IXyro5aGLqgyyOHsVURnAATNC5zxxnE19QpMTEpXxLJojm%2B7w7pulRJGFHICcAFi0IgHHUhKl9Zd4yZwpK8CKE4S%2BmSIl4%2FSvdsnPUL1LRl5M2%2BN%2B5ITBHjDdPur898M%3D&ref=&res=720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movie On-Demand: E",Extra Large
@@ -568,6 +507,8 @@ https://gdrivecdn.us/drive/index.php?id=1EkjfECcyvUpJOrYgoemog3%2F0kjV9Fi8kZpRI%
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kNktx6V.jpg" group-title="Movie On-Demand: E" description="Drama | Thriller | War | 7.3 | 102 Menit | Seorang perwira militer yang memimpin operasi pesawat tak berawak untuk menangkap teroris di Kenya melihat misinya meningkat dari penangkapan menjadi membunuh ketika seorang gadis berusia sembilan tahun memasuki zona membunuh.",Eye in the Sky (2015)
 https://gdrivecdn.us/drive/index.php?id=gNTiCFV1FTYo7ytVGBU%2BiQlE%2Bxn6NtzW4VGdIiCpx84zmuXxUiMCLh9TcP5pkR0N%2Blh2nAr4ZJLmFNNCmNOwY%2B5xc4bcycvZpPWuX8l%2FOBjm5v4tkApWZNRE1RxutCw18%3D&ref=&res=720
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kiaikick.files.wordpress.com/2020/02/final-kill-key-art.jpg?w=691" group-title="Movie On-Demand: F", Final Kill (2020)
+https://www.dropbox.com/s/7c8mzu4hxuyjua3/Final%20Kill.mkv?dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8tE4MhhuWHize6pNyxAtakUyNZc.jpg" group-title="Movie On-Demand: F" description="Action | IMDb: 7.0 | 126 Menit | Dalam kehidupan nyata, Kwon Yoo menganggur, tetapi di dunia game virtual dia adalah pemimpin terbaik. Kwon Yoo kemudian dijebak karena pembunuhan. Dengan bantuan peretas Yeo-Wool, ia mencoba mengungkap kebenaran di balik kasus pembunuhan itu.",Fabricated City (2017)
 https://cdn.apidev.icu/drive/index.php?id=HfxsVNwZ1alnWQfmCyRbegzOdvU8gcjDflo8CII3F8f5woVmnCKfKpqHHYitWg3M9ga7a7yuPZcQoetvsJYJ7ynaQXUWGhF4zm24AK3nGEWCIOqb2gAzHKzOQ2hu0fK7I%3D&ref=&res=720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movie On-Demand: F",Fast and Furious: Present Hobbs and Shaw
@@ -603,6 +544,8 @@ https://gdrivecdn.us/drive/index.php?id=VDnjW4P0cuZ2EwRQgy0OswTz0ch4tKkl6fzPUC9X
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YiwgKe.jpg" group-title="Movie On-Demand: F" description="Action | Crime | Thriller | 7.2 | 137 Menit | Deckard Shaw berusaha membalas dendam terhadap Dominic Toretto dan keluarganya karena saudaranya yang koma.",Furious 7 (2015)
 https://gdrivecdn.us/drive/index.php?id=w9c5gB8biJCVODikhjjrHwg9Ne26gf6TjqPYhfSiyWeRnX44SXm9D2BXw%2BGXUvEJBy0PS1bK8nehOv6VGmNSHP46YrlEwbLxaJA72uDrsJoksCt9HMi9C5t9%2F7oOhGovw%3D&ref=&res=720
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.9jalshamoviez.com/wp-content/uploads/2020/01/Grand-Theft-Auto-Girls-2020-Dual-Audio-720p-HDRip-Hindi-%E2%80%93-English.jpg" group-title="Movie On-Demand: G", Grand Theft Auto Girls (2020)
+https://www.dropbox.com/s/044cyqqyswvzjz2/Grand%20Theft%20Auto%20Girls.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movie On-Demand: G",Ghost Writer
 
 https://www.dropbox.com/s/rcli4iwax3ig1q5/Ghost.Writer.2019.WEB-DL.720p-PusatFilm21.com.mp4?dl=1
@@ -633,9 +576,9 @@ https://cdn.clonefile.icu/drive/index.php?id=L1fSh9jlsBmNA07RHP5C7Qcauo4O2vgwrzZ
 https://cdn.clonefile.icu/drive/index.php?id=ybZJY55NI1cjIZubmO2QBQjWudPVKea1RzyZp7qsaJPL%2Bx%2B5W1KgDhAw1W5MTwGwOsN9GgknwOwXx%2BKU4Rcv0vF8LApm5YouNZBT8ULWhvFAzobnJqtRBazrkum%2BVvEBI%3D&ref=&res=720
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk5MGYxZmUtNmJjNC00Y2JjLWJiMTEtMDY4M2QzNzAxNjJiXkEyXkFqcGdeQXVyNDczODQwOTQ@._V1_.jpg" group-title="Movie On-Demand: H", Heavenquest-A Pilgrim's Progress (2020)
-https://www.googleapis.com/drive/v3/files/1d3OTf8mzrH5upgmWAWSHdbMAHURV1hNe?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/htxu4ik7v5ovq7j/Heavenquest.A.Pilgrims.Progress.2020.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD_NVggEJTlM24jpYIfhNCIq3eXM3GOXMVMhx-CUj5-rNAg2_U" group-title="Movie On-Demand: H", Horse Girl (2020)
-https://www.googleapis.com/drive/v3/files/1zFpHS00eqcUeCFYNB0LEfoEVxjd9yB_R?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/4bna84zhb3hbpfs/Horse.Girl.2020.720p.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/llac7D7.jpg" group-title="Movie On-Demand: H" description="Comedy | Thriller | IMDb: 6.0 | 96 Menit | Mendapatkan undangan untuk HANGOUT, dari seorang pengirim misterius. Undangan tersebut menjanjikan sejumlah uang yang akan mengatasi kesulitan keuanganya. Syaratnya, dia harus pergi ke sebuah rumah ditengah pulau terpencil. Raditya memenuhi undangan tersebut. Ketika sampai di pulau, Raditya baru sadar bahwa ada public figure lain yang diundang ke pulau tersebut: Prilly Latuconsina, Surya Saputra, Titi kamal, Gading Marten, Soleh Solihun, Dinda Kanya Dewi, Bayu Skak dan Mathias Muchus. Sembilan orang public figure yang memenuhi undangan HANGOUT.",Hangout (2016)
 https://cdn.clonefile.icu/drive/index.php?id=dfcoaT7KFeMe4vNrYmDJqASs76gbjEwb9YJZ%2FdfnY9aR9qMk%2BN%2BBbH7tyrDcd1I6soTMNW%2B3ru9ib2wAtrDsxxJJdWeOsMJkMpFzfzYWagnIFXRAtZD88MWv8%2FxYn8cDY%3D&ref=&res=720
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0vETcsw.jpg" group-title="Movie On-Demand: H" description="Drama | Horror | Mystery | 6.5 | 100 min | Tree Gelbman mengetahui bahwa mati berulang kali secara mengejutkan lebih mudah daripada bahaya yang terbentang di depan.",Happy Death Day 2U (2019)
@@ -710,6 +653,8 @@ https://gdrivecdn.us/drive/index.php?id=%2FMh7qvQ0huoPkkLIBmzBzg900PTIQjf7LY1fMn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8CaSS66.jpg" group-title="Movie On-Demand: I" description="Action | 6.6 | 107 min | Setelah dikalahkan oleh Ip Man-- Cheung Tin Chi menjalani kehidupan yang tertekan dan tidak menonjolkan diri. Sementara Tin Chi mencoba untuk menghindari masalah-- dia terlibat perkelahian dengan orang asing Davidson-- bos besar di belakang bar distrik. Tin Chi berjuang keras dengan Wing Chun dan mendapatkan rasa hormat.",Master Z: Ip Man Legacy (2018)
 https://gdrivecdn.us/drive/index.php?id=WJ7Clew2ApG7OMHkHKZbNANace9vhQd2wEcMbbGql%2BLYjzE2JUYopG5C%2BU6Di84ipOCrDfUZvY8cTNzVSg01Ml7apAl7KQ64KEgS6VBr63%2BFB0gmsmGywsx48%2FPk74pyA%3D&ref=&res=720
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqB7zaOwER-RfERQu1RZKBLDGEar6dNzByJmnLwIb02Y0vmm8a" group-title="Movie On-Demand: J", John Henry (2020)
+https://www.dropbox.com/s/zlkridfxsdtiibl/john%20herry.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="Movie On-Demand: J" description="Action | Crime | Thriller | IMDb: 8.7 | 130 Menit | Super-pembunuh John Wick kembali dengan label harga $ 14 juta di kepalanya dan sepasukan pembunuh pemburu hadiah di jejaknya. Setelah membunuh anggota guild pembunuh bayang-bayang internasional, High Table, John Wick dikucilkan, tetapi pria dan wanita hit paling kejam di dunia menunggu setiap gilirannya.",John Wick: Chapter 3 - Parabellum (2019)
 https://www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
 
@@ -767,9 +712,9 @@ https://gdrivecdn.us/drive/index.php?id=AK0kTndKbVEDyio08%2BUuywduuPlduEtriNYly%
 https://gdrivecdn.us/drive/index.php?id=sgfJ7TdOiMDDvAmM59Y6kAbcTVpX8fUtWkhTdCqASquoiWVQ%2Fo9KOExm%2FwqA8auHSkS51KHGaiBKgdkESbCC44Koa4jqx2CwH9O9287DQ3NCw8i%2FJircQsh1icLGQzrvg%3D&ref=&res=720
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nontongratis88x.com/wp-content/uploads/2020/02/tzDAAMphTTy53ereXgcbDTpfhQm-152x228.jpg" group-title="Movie On-Demand: M", Mountain King (2020)
-https://www.googleapis.com/drive/v3/files/1vigf9EQpjQWMjZvPLp7N85f-OpDhuiM0?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/6vs7vxjsgd3iibh/wild.king.2020.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17881762/p17881762_v_v8_aa.jpg" group-title="Movie On-Demand: M", Miss Americana (2020)
-https://www.googleapis.com/drive/v3/files/1uYH50ORJxBO-sDZ2Exhs42lnoYOuPAmh?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/0lklsg202x2oqm9/Taylor.Swift.Miss.Americana.2020.PlanetIPTV.mkv?dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg" group-title="Movie On-Demand: M" description=" Action | Adventure | Comedy | Science Fiction | IMDb: 6.7 | 113 Menit | The Men in Black selalu melindungi Bumi dari buangan alam semesta. Dalam petualangan baru ini, mereka menangani ancaman terbesar, paling global hingga saat ini: tikus dalam organisasi Men in Black.",Men in Black: International (2019)
 https://www.dropbox.com/s/uc8kca0ifmhwa5r/Men.in.Black.International.2019.mp4?dl=1
 
@@ -839,6 +784,8 @@ https://gdrivecdn.us/drive/index.php?id=2MDMhGwiTNPrA9vnpCctKwOYaXoOvNdRBCfgt8Nd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eNuS5rL.jpg?1" group-title="Movie On-Demand: N" description="Action | IMDB: 6.9 | A friendship with a top-secret robot turns a lonely girl’s life into a thrilling adventure as they take on bullies-- evil bots-- and a scheming madman.",Next Gen (2018)
 https://gdrivecdn.us/drive/index.php?id=DbDEycDrmHXYHv59fXXMjARnDHN%2BOM%2BzFVUACOGQHdMSIILDPDZy8dsfUvOTecKVvOCn%2Ff3IeowjPDYkdntxl8mwfueIcecq62OWYXcBg2OVJNnJNazJWCZBOCSRivS%2Bg%3D&ref=&res=720
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://goodguymovies.com/images/Legacy/Disney/Onward-2020.jpg" group-title="Movie On-Demand: O", Onward (2020)
+https://www.dropbox.com/s/6qtmxzs9c6bxcul/Onward%202020%20720.mkv?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D9hJw17.jpg" group-title="Movie On-Demand: O" description="Drama | 97 Menit | Barack Obama atau yang bernama kecil Barry, sudah berada di Jakarta selama tiga tahun di Menteng Dalam. Kemudian ia pindah kerumah ayah barunya, Lolo Soetoro, setelah ibunya Ann Dunham yang sedang hamil dari Lolo, bercerai dengan ayah kandung Barry, Barack Obama, Sr. yang merupakan orang Kenya. Berada di Menteng, membuat Barry merasakan pergaulan Indonesia sebenar-benarnya. Ia berteman dengan kedua tetangganya Slamet dan Yuniardi yang berbeda strata sosial dengan Barry.",Obama Anak Menteng
 https://cdn.cloneapi.icu/drive/index.php?id=CE4QfyWbXE5Om5NYXQ9KtQMrpgwBMn3NHrMrZjPts0wTwcUIvoetBIMhNIOJmYOGTfapej0%2BgIQWPjtZAQAR31JKux4e3Im8sLmDlxEJ4wJ1fPXMj5bMnommq9dtONppg%3D&ref=&res=720
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/MvYpKlpFukTivnlBhizGbkAe3v.jpg" group-title="Movie On-Demand: O" description=" Action | Crime | Thriller | IMDb: 6.2 | 110 Menit | Kisah kriminal yang melibatkan delapan pencuri wanita.",Ocean's 8 (2018)
@@ -925,9 +872,9 @@ https://gdrivecdn.us/drive/index.php?id=Iz8rFzxzwQGIpg8gHb%2FIWQcRglutPSkZ7Mzlql
 https://gdrivecdn.us/drive/index.php?id=eDIjYP7Hh5axeC00Okp91QpCzkQ1zwCBdVnhrnzmRan24myh7QT9t4oM8kCe1m3mvtx0%2FjFRKGbGYjTVNeHNuC9a8o22c5MsQJgVQRIKp6zTsm7ZShoFqmm6hVt7V9VGc%3D&ref=&res=720
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://miro.medium.com/max/600/0*QYt8-jxv6o5o6g9P.jpg" group-title="Movie On-Demand: S", Sonic the Hedgehog (2020)
-https://www.googleapis.com/drive/v3/files/1dIfyBVizCdCg3YiFlycLLyMe6zKMKINd?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/4348i6rx7pj4v6f/Sonic.The.Hedgehog.2020.HDRip.x264-STUTTERSHIT-Sonic.The.Hedgehog.2020.HDRip.x264-STUTTERSHIT.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asianwiki.com/images/8/8d/Secret_Zoo-P1.jpg" group-title="Movie On-Demand: S", Secret Zoo (2020)
-https://www.googleapis.com/drive/v3/files/1KfD9TBrJ9e1KxBzzzFP-L1jfBUKsyhiz?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/tqwawgj7js5daaf/Secret.Zoo.2019.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg" group-title="Movie On-Demand: S" description=" Action | Adventure | Science Fiction | IMDb: 8.0 | 129 Menit | Peter Parker dan teman-temannya melakukan perjalanan musim panas ke Eropa. Namun, mereka hampir tidak dapat beristirahat - Peter harus setuju untuk membantu Nick Fury mengungkap misteri makhluk yang menyebabkan bencana alam dan kehancuran di seluruh benua.",Spider-Man: Far from Home (2019)
 https://www.dropbox.com/s/0cx0bfyddhqilc5/Spider.man.Far.From.Home.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
 
@@ -989,10 +936,12 @@ https://gdrivecdn.us/drive/index.php?id=jbMTNSNZGh57L%2BiuN6M%2Bfg1EnKQ4vGdFzbsk
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gTjRovjEDbZCsABVx3HQwjE6xmW.jpg" group-title="Movie On-Demand: S" description="Comedy | Drama | Horror | IMDb: 6.9 | 125 Menit | Karyawan Satria berniat untuk merampok rumahnya ketika dia berada di luar negeri tetapi perampokan mereka berubah menjadi pembunuhan ketika mereka menemukan Suzzanna di dalam rumah ketika mereka mengubur tubuhnya di halaman belakang.",Suzzanna: Bernapas Dalam Kubur (2018)
 https://cdn.clonefile.icu/drive/index.php?id=PSI9CIy9YlN4xU%2BPDWafKA49tv34SWM54MyQP%2Fet193IUQCkzmxUbzlM5qPxQvIa8zmoiQiq4lxzMkWXXN06f50o85YhEvbHtpxCL9aOmdWTgm%2FRU266jqEyYeIySOP9k%3D&ref=&res=720
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFkMmE5ZDMtY2FjZi00MjUzLTg5YTQtNmNmZTg2MGFkODQwXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_.jpg" group-title="Movie On-Demand: T", The Dawn (2020)
+https://www.dropbox.com/s/3wm0zn6xgdqj64i/The.Dawn.2019.WEB-DL.x264-FGT.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZiZjkyMGMtNDUwMC00YWRhLWE4ZTctNTg2MDA1MjUwYWY5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Movie On-Demand: T", Timmy Failure Mistakes Were Made (2020)
-https://www.googleapis.com/drive/v3/files/1ypp4xLuhpmbi-NUfHHCaJI3-sQC2nyg0?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/w5mgoxw1728kv02/Timmy.Failure.Mistakes.Were.Mad_2.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a.ltrbxd.com/resized/film-poster/5/8/9/3/9/5/589395-the-windermere-children-0-230-0-345-crop.jpg?k=16b47e7434" group-title="Movie On-Demand: T", The Windemere Children (2020)
-https://www.googleapis.com/drive/v3/files/19BCC3PF9oyJYoySg36qCo3mEireirv3r?alt=media&key=AIzaSyDWDq92zKCJPkRUL4pnYd1ZKnV-YPQYIRs
+https://www.dropbox.com/s/7llt3mtkek7hfb8/The%20Windermere%20Children.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/q3mKnSkzp1doIsCye6ap4KIUAbu.jpg" group-title="Movie On-Demand: T" description=" Adventure | Animation | Comedy | Family | IMDb: 6.6 | 86 Menit | Apa yang terjadi dengan hewan peliharaan kami saat kami tidak di rumah? Film ini melanjutkan film aslinya bersama Max dan teman-temannya.",The Secret Life of Pets 2 (2019)
 https://www.dropbox.com/s/m3vffm6811izs9b/The.Secret.Life.of.Pets.2.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
 
