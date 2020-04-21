@@ -693,6 +693,10 @@ https://www.dropbox.com/s/bckz0xk59nndoyh/X.Men.Dark.Phoenix.2019.720p.Bluray-Pu
 https://bit.ly/3eDkURa
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91bxF4jgMTL._SY445_.jpg" group-title="Movie On-Demand: D",Dark Side of The Moon (2011)
 https://bit.ly/2ysNvYQ
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="Movie On-Demand: D",Deadpool 1 (2016)
+https://bit.ly/2VK6d65
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg" group-title="Movie On-Demand: D",Deadpool 2 (2018)
+https://bit.ly/2wUcP9y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/db/Despicable_Me_Poster.jpg" group-title="Movie On-Demand: D",Despicable Me 1 (2010)
 https://bit.ly/3evWitz
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/Despicable_Me_2_poster.jpg" group-title="Movie On-Demand: D",Despicable Me 2 (2013)
@@ -913,6 +917,8 @@ https://bit.ly/2VmVNu4
 https://bit.ly/3boN4gx
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Lethal_Weapon_4_Poster.jpg" group-title="Movie On-Demand: L",Lethal Weapon 4 (1998)
 https://bit.ly/2VpholK
+#EXTINF:-1 tvg-logo="https://www.jagatreview.com/wp-content/uploads/2017/03/logan-poster-500x739.jpg" group-title="Movie On-Demand: L",Logan (2017)
+https://bit.ly/2ytAKx2
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/62/b7/ed/62b7edd69681f0063ca0fd5d14f0145a.jpg" group-title="Movie On-Demand: L",Los Bandoleros (2009)
 https://bit.ly/2VomPkZ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Lucy_%282014_film%29_poster.jpg" group-title="Movie On-Demand: L",Lucy (2014)
@@ -1212,6 +1218,8 @@ https://bit.ly/3aq0S9o
 https://bit.ly/3cwSFBG
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a.ltrbxd.com/resized/film-poster/5/8/9/3/9/5/589395-the-windermere-children-0-230-0-345-crop.jpg?k=16b47e7434" group-title="Movie On-Demand: T", The Windemere Children (2020)
 https://www.dropbox.com/s/7llt3mtkek7hfb8/The%20Windermere%20Children.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_UY1200_CR89,0,630,1200_AL_.jpg" group-title="Movie On-Demand: T",The Wolverine (2013)
+https://bit.ly/2KiE5Sn
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-geHE0leBAhc/TjVDDCplPAI/AAAAAAAABYg/TgqwJYgH7MM/s1600/Thor-2011-movie-poster.jpg" group-title="Movie On-Demand: T",Thor (2011)
 https://bit.ly/2VpUHhp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg" group-title="Movie On-Demand: T",Thor : Ragnarok (2017)
@@ -1272,6 +1280,20 @@ https://bit.ly/2wYXfts
 
 ############### Movie On-Demand: X ###############
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b3/21/93/b3219319b7e3e30ba3ccdf2a7fc8ff5b.jpg" group-title="Movie On-Demand: X",X-Men - First Class (2011)
+https://bit.ly/2yzMs9e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/X-Men_Days_of_Future_Past_poster.jpg" group-title="Movie On-Demand: X",X-Men - Days Of Future Past (2014)
+https://bit.ly/3bCeijO
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UDLlmB0s47Y/UQYrx58K-dI/AAAAAAAACSU/B5hOL4Z68Ak/s1600/x_men_origins_wolverine_ver3.jpg" group-title="Movie On-Demand: X",X-Men Origins - Wolverine (2009)
+https://bit.ly/2XRQNQ0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/XMen1poster.jpg" group-title="Movie On-Demand: X",X-Men (2000)
+https://bit.ly/3arm2UG
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/44/31/8c4431fa0bf4fce6d759172d0f6a292d.jpg" group-title="Movie On-Demand: X",X-Men - United (2003)
+https://bit.ly/2RWwL2O
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg" group-title="Movie On-Demand: X",X-Men - The Last Stand (2006)
+https://bit.ly/2VK69Dn
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_UY1200_CR91,0,630,1200_AL_.jpg" group-title="Movie On-Demand: X",X-Men - Apocalypse (2016)
+https://bit.ly/2VE0heI
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZmYTgwZGItNDIxMS00MmRkLWEzODQtYTllNzM0ZWE1NmQ5XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg" group-title="Movie On-Demand: X",X-Men - Dark Phoenix (2019)
 https://bit.ly/2VocNQH
 
